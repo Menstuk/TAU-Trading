@@ -1,0 +1,25 @@
+
+###
+GET https://api.tiingo.com/tiingo/fundamentals/baba/statements?token=77f2d31b5febbe2bd67ef45c561c8aac58360d8b
+Accept: application/json
+
+###
+GET https://api.tiingo.com/tiingo/fundamentals/brkb/daily?token=77f2d31b5febbe2bd67ef45c561c8aac58360d8b
+Accept: application/json
+
+###
+GET https://api.tiingo.com/tiingo/daily/ALLE/prices?startDate=2012-1-1&token=77f2d31b5febbe2bd67ef45c561c8aac58360d8b
+Accept: application/json
+
+###
+GET https://api.tiingo.com/tiingo/fundamentals/meta?token=77f2d31b5febbe2bd67ef45c561c8aac58360d8b
+Accept: application/json
+
+###
+GET https://api.tiingo.com/tiingo/fundamentals/AMCR/statements?token=77f2d31b5febbe2bd67ef45c561c8aac58360d8b
+Accept: application/json
+
+###
+GET https://api.tiingo.com/tiingo/fundamentals/MMM/daily?token=77f2d31b5febbe2bd67ef45c561c8aac58360d8b
+Accept: application/json
+
